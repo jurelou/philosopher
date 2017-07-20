@@ -8,4 +8,4 @@ A group of philosophers has decided to start a new theory, dictating a group of 
 Before the release of those rule, they decided testing it in a simulator. They hired you to carry through this simulator and finally showing the whole world their infinite wisdom.
 On your shoulders is a huge responsibility : proving that your new friends have resolved the famishment problem. In order to avoid the stress linked to the amount of risk of this mission.
 
-![alt text](https://github.com/jurelou/indie/blob/master/img/Capture%20de%20Pr%C3%A9sentationWorms.wmv.png "Logo Title Text 1")
+![alt text](https://github.com/jurelou/philosopher/blob/master/img/File-An_illustration_of_the_dining_philosophers_problem.png "Logo Title Text 1")
